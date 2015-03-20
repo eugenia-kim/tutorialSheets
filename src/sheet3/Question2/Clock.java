@@ -2,7 +2,7 @@ package sheet3.Question2;
 
 public class Clock {
 	
-	private int secondsSinceMid;
+	protected int secondsSinceMid;
 
 	private DisplayMode displayMode;
 	
